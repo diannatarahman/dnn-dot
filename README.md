@@ -27,13 +27,6 @@ Inclusion can be located for experimental data using only simulation data to tra
 ![alt text](https://raw.githubusercontent.com/diannatarahman/dnn-dot/master/results/Figure_40.png)
 
 # References
-1. [DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction](https://ieeexplore.ieee.org/document/8233175/)
-@article{yang2018_dagan,
-	author = {Yang, Guang and Yu, Simiao and Dong, Hao and Slabaugh, Gregory G. and Dragotti, Pier Luigi and Ye, Xujiong and Liu, Fangde and Arridge, Simon R. and Keegan, Jennifer and Guo, Yike and Firmin, David N.},
-	journal = {IEEE Trans. Med. Imaging},
-	number = 6,
-	pages = {1310--1321},
-	title = {{DAGAN: deep de-aliasing generative adversarial networks for fast compressed sensing MRI reconstruction}},
-	volume = 37,
-	year = 2018
-}
+1. [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+2. [DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction](https://ieeexplore.ieee.org/document/8233175/)
+3. [Image reconstruction by domain-transform manifold learning](https://www.nature.com/articles/nature25988/)
