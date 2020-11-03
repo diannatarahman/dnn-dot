@@ -1,12 +1,3 @@
 version: 2
 
 workflows:
-  single-node:
-    steps:
-      -
-        name: "single-node"
-        command: experiment.run_single_node
-        params:
-          command: nvidia-smi
-          container: tensorflow/tensorflow:1.13.1-gpu-py3
-          machineType: "K80"
